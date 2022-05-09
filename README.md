@@ -37,7 +37,7 @@ The code for the evaluation can be found in - main/src/
 ## Instructions to run the project
 * Run the folloiwng command to clone the github repo
 ```bash
-git clone https://github.com/laveenbhatia/Using-CNN-for-Sentiment-Analysis-of-Noisy-Audio-Data.git
+git clone https://github.com/laveenbhatia/Surface-Crack-Detection-Using-Deep-Learning.git
 ```
 
 * Run the following command to install the required dependencies
